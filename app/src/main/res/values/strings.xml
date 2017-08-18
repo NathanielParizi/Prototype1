@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="hi">whats up homie</string>
+    <string name="buy">Magic Color</string>
+    <string name="converter">converter</string>
+
+    <string name="Angelic">Angelic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="enter_the_magic_color">Enter_the_magic_color</string>
+    <string name="guess_a_color">Guess a color!</string>
+    <string name="magic_color">Magic Color</string>
+    <string name="Input_Color">Input_Color</string>
+</resources>
